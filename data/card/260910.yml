@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.6.10"
   latestRelease: "v1.6.10"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:36:31Z
+  collectedAt: 2026-09-10T23:13:01Z
 timeline:
   created: 2018-03-29
   lastCommit: 2024-04-07
@@ -88,7 +88,7 @@ total:
   commit: 880
 ---
 path: /home/runner/.x-repo/github.com/cointop-sh/cointop
-collectedAt: 2026-09-10T20:36:35Z
+collectedAt: 2026-09-10T23:13:03Z
 loc:
   Go:
     code: 404536
