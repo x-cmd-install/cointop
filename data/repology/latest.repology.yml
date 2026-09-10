@@ -1,0 +1,159 @@
+- repo: aur
+  srcname: cointop
+  binname: cointop
+  visiblename: cointop
+  version: 1.6.10
+  origversion: 1.6.10-1
+  status: newest
+  summary: An interactive terminal based UI application for tracking cryptocurrencies
+  maintainers:
+    - kingoftoasters@aur
+    - miguelmota@aur
+  licenses:
+    - Apache
+- repo: aur
+  srcname: cointop-bin
+  binname: cointop-bin
+  visiblename: cointop-bin
+  version: 1.6.10
+  origversion: 1.6.10-1
+  status: newest
+  summary: Cointop is a fast and lightweight interactive terminal based UI application for tracking and monitoring cryptocurrency coin stats in real-time
+  maintainers:
+    - jonian@aur
+  licenses:
+    - Apache License 2.0
+- repo: macports
+  srcname: finance/cointop
+  binname: cointop
+  visiblename: cointop
+  version: 1.6.10
+  origversion: null
+  status: newest
+  summary: A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies in realtime.
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - Apache-2
+  categories:
+    - finance
+- repo: mageia_10
+  subrepo: core/release
+  srcname: cointop
+  binnames:
+    - cointop
+  visiblename: cointop
+  version: 1.6.12
+  origversion: 1.6.12-0.20220502git.4e917f6.2.mga10
+  status: untrusted
+  summary: Interactive terminal based UI application for tracking cryptocurrencies
+  licenses:
+    - Apache-2.0
+  categories:
+    - Office/Finance
+- repo: mageia_9
+  subrepo: core/release
+  srcname: cointop
+  binnames:
+    - cointop
+    - cointop-debuginfo
+    - cointop-debugsource
+  visiblename: cointop
+  version: 1.6.12
+  origversion: 1.6.12-0.20220502git.4e917f6.1.mga9
+  status: untrusted
+  summary: Interactive terminal based UI application for tracking cryptocurrencies
+  licenses:
+    - Apache-2.0
+  categories:
+    - Office/Finance
+- repo: mageia_cauldron
+  subrepo: core/release
+  srcname: cointop
+  binnames:
+    - cointop
+  visiblename: cointop
+  version: 1.6.12
+  origversion: 1.6.12-0.20220502git.4e917f6.2.mga10
+  status: untrusted
+  summary: Interactive terminal based UI application for tracking cryptocurrencies
+  licenses:
+    - Apache-2.0
+  categories:
+    - Office/Finance
+- repo: nix_stable_24_05
+  srcname: cointop
+  visiblename: cointop
+  version: 1.6.10
+  origversion: null
+  status: newest
+  summary: The fastest and most interactive terminal based UI application for tracking cryptocurrencies
+  maintainers:
+    - rob@sarcasticadmin.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: cointop
+  visiblename: cointop
+  version: 1.6.10
+  origversion: null
+  status: newest
+  summary: Fastest and most interactive terminal based UI application for tracking cryptocurrencies
+  maintainers:
+    - rob@sarcasticadmin.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: cointop
+  visiblename: cointop
+  version: 1.6.10
+  origversion: null
+  status: newest
+  summary: Fastest and most interactive terminal based UI application for tracking cryptocurrencies
+  maintainers:
+    - rob@sarcasticadmin.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: cointop
+  visiblename: cointop
+  version: 1.6.10
+  origversion: null
+  status: newest
+  summary: Fastest and most interactive terminal based UI application for tracking cryptocurrencies
+  maintainers:
+    - rob@sarcasticadmin.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: cointop
+  visiblename: cointop
+  version: 1.6.10
+  origversion: null
+  status: newest
+  summary: Fastest and most interactive terminal based UI application for tracking cryptocurrencies
+  maintainers:
+    - rob@sarcasticadmin.com
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: cointop
+  visiblename: cointop
+  version: 1.6.10
+  origversion: null
+  status: newest
+  summary: Fastest and most interactive terminal based UI application for tracking cryptocurrencies
+  maintainers:
+    - rob@sarcasticadmin.com
+  licenses:
+    - Apache-2.0
+- repo: termux
+  srcname: cointop
+  binname: cointop
+  visiblename: cointop
+  version: 1.6.10
+  origversion: null
+  status: newest
+  summary: A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies
+  maintainers:
+    - termux@github
