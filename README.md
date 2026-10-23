@@ -50,12 +50,12 @@ Total: **413,098** lines of code across **1127** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-27 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last720d | 2024-11-01 | 0 | 0 | 0 | 0 | 5 | 0 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-28 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last720d | 2024-11-02 | 0 | 0 | 0 | 0 | 5 | 0 |
 
 ## Release assets
 
@@ -64,6 +64,14 @@ Total: **413,098** lines of code across **1127** files in the top 5 languages.
 | [cointop_1.6.10_checksums.txt](https://github.com/cointop-sh/cointop/releases/download/v1.6.10/cointop_1.6.10_checksums.txt) | 201 B | `other` |
 | [cointop_1.6.10_darwin_amd64.tar.gz](https://github.com/cointop-sh/cointop/releases/download/v1.6.10/cointop_1.6.10_darwin_amd64.tar.gz) | 6.7 MiB | `native/darwin/x64` |
 | [cointop_1.6.10_linux_amd64.tar.gz](https://github.com/cointop-sh/cointop/releases/download/v1.6.10/cointop_1.6.10_linux_amd64.tar.gz) | 7.1 MiB | `native/linux/x64` |
+
+## Distribution status
+
+Reported by **13** distros on [repology.org](https://repology.org/project/cointop). **10** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `1.6.10` | ✅ latest |
 
 ## Improve this data
 
@@ -74,4 +82,4 @@ Install metadata for cointop lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:24:21Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:15:23Z._
