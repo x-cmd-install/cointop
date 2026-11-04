@@ -40,7 +40,7 @@ Total: **413,098** lines of code across **1127** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,389 · **Forks**: 348 · **Open issues**: 204 · **Contributors**: 23
+- **Stars**: 4,389 · **Forks**: 347 · **Open issues**: 204 · **Contributors**: 23
 
 ## Totals (cumulative)
 
@@ -50,12 +50,12 @@ Total: **413,098** lines of code across **1127** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-04 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-08 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last720d | 2024-11-13 | 0 | 0 | 0 | 0 | 5 | 0 |
+| 30d | 2026-10-05 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-05 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-06 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-09 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last720d | 2024-11-14 | 0 | 0 | 0 | 0 | 5 | 0 |
 
 ## Release assets
 
@@ -64,6 +64,14 @@ Total: **413,098** lines of code across **1127** files in the top 5 languages.
 | [cointop_1.6.10_checksums.txt](https://github.com/cointop-sh/cointop/releases/download/v1.6.10/cointop_1.6.10_checksums.txt) | 201 B | `other` |
 | [cointop_1.6.10_darwin_amd64.tar.gz](https://github.com/cointop-sh/cointop/releases/download/v1.6.10/cointop_1.6.10_darwin_amd64.tar.gz) | 6.7 MiB | `native/darwin/x64` |
 | [cointop_1.6.10_linux_amd64.tar.gz](https://github.com/cointop-sh/cointop/releases/download/v1.6.10/cointop_1.6.10_linux_amd64.tar.gz) | 7.1 MiB | `native/linux/x64` |
+
+## Distribution status
+
+Reported by **13** distros on [repology.org](https://repology.org/project/cointop). **10** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `1.6.10` | ✅ latest |
 
 ## Improve this data
 
@@ -74,4 +82,4 @@ Install metadata for cointop lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:49:05Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:03:13Z._
