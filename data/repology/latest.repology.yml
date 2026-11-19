@@ -1,3 +1,25 @@
+- repo: nix_stable_25_11
+  srcname: cointop
+  visiblename: cointop
+  version: 1.6.10
+  origversion: null
+  status: newest
+  summary: Fastest and most interactive terminal based UI application for tracking cryptocurrencies
+  maintainers:
+    - rob@sarcasticadmin.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: cointop
+  visiblename: cointop
+  version: 1.6.10
+  origversion: null
+  status: newest
+  summary: Fastest and most interactive terminal based UI application for tracking cryptocurrencies
+  maintainers:
+    - rob@sarcasticadmin.com
+  licenses:
+    - Apache-2.0
 - repo: aur
   srcname: cointop
   binname: cointop
@@ -37,22 +59,6 @@
     - Apache-2
   categories:
     - finance
-- repo: mageia_9
-  subrepo: core/release
-  srcname: cointop
-  binnames:
-    - cointop
-    - cointop-debuginfo
-    - cointop-debugsource
-  visiblename: cointop
-  version: 1.6.12
-  origversion: 1.6.12-0.20220502git.4e917f6.1.mga9
-  status: ignored
-  summary: Interactive terminal based UI application for tracking cryptocurrencies
-  licenses:
-    - Apache-2.0
-  categories:
-    - Office/Finance
 - repo: mageia_10
   subrepo: core/release
   srcname: cointop
@@ -92,29 +98,7 @@
     - rob@sarcasticadmin.com
   licenses:
     - Apache-2.0
-- repo: nix_stable_24_11
-  srcname: cointop
-  visiblename: cointop
-  version: 1.6.10
-  origversion: null
-  status: newest
-  summary: Fastest and most interactive terminal based UI application for tracking cryptocurrencies
-  maintainers:
-    - rob@sarcasticadmin.com
-  licenses:
-    - Apache-2.0
 - repo: nix_stable_25_05
-  srcname: cointop
-  visiblename: cointop
-  version: 1.6.10
-  origversion: null
-  status: newest
-  summary: Fastest and most interactive terminal based UI application for tracking cryptocurrencies
-  maintainers:
-    - rob@sarcasticadmin.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_11
   srcname: cointop
   visiblename: cointop
   version: 1.6.10
